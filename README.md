@@ -1,6 +1,6 @@
 # USA Unemployment Rates Data Analysis
 
-This is the Capstone project  for Code:You Data Analysis Project. This project will analsis US unemployment rates for various age groups, education levels, genders, races, and more.
+This is the Capstone project  for Code:You Data Analysis Project. This project will analyze US unemployment rates for various age groups, education levels, genders, races, and more.
 
 **Goal:-**
 Determine the how unemployment rates have changed for different groups of people over time.

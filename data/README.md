@@ -1,5 +1,7 @@
 # Data Dictionary
 
+USA Unemployment Rates data from [kaggle](https://www.kaggle.com/datasets/asaniczka/unemployment-rates-by-demographics-1978-2023)
+
 ## Calendar
 
 |field | description | Cleaning notes |
