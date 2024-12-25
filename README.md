@@ -15,11 +15,25 @@ Steps:-
     Analyze the data and answer the questions.
     Visualize the analysis.
 
+## Programming Languages and Tools Used
+
+    Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, yfinance, cufflinks
+
+    Development Environment: Jupyter Notebook
+
+    Data Visualization Tools: Matplotlib, Seaborn
+
+    Machine Learning: Scikit-learn
+
+    Version Control: Git Bash, Git/GitHub
+
 ## Getting Started
 
-1. Clone this repo.
-2. Create a virtual environment and install the packages listed in the requirements.txt file.
-3. 
+1. Clone this repository from [unemployment-project](https://github.com/budhathum8/unemployment-project)
+2. Creat a virtual environment and install the packages listed in the requirements.txt file.
+3. Import the necessary libraries and load the dataset into a pandas DataFrame.
+4. Data cleaning, Preprocessing , analysis and foreasting.
+
 
 ## Capstone Project Criteria
 
@@ -35,3 +49,4 @@ Steps:-
     data/README.md: data dictionary
     src: jupyter notebook for data discovery
     src: automated the data cleaning
+    requirements.txt: install the packages listed file
